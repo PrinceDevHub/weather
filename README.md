@@ -1,6 +1,9 @@
  ☁️ Weather App
 A sleek and minimal weather application built using React, powered by the OpenWeatherMap API, and styled for a modern UI.
 
+🚀 Demo
+https://weather-orpin-iota.vercel.app/
+
 ✨ Features
 🔍 Search for real-time weather by city name
 🌡️ Displays temperature, weather condition, humidity, wind speed, and how it feels
@@ -13,5 +16,3 @@ Axios (API requests)
 OpenWeatherMap API (Weather data)
 CSS (Custom styles)
 
-🚀 Demo
-https://weather-orpin-iota.vercel.app/
