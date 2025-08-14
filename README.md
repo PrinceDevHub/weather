@@ -14,5 +14,4 @@ OpenWeatherMap API (Weather data)
 CSS (Custom styles)
 
 🚀 Demo
-
-Live Demo   (add your live link here)
+https://weather-orpin-iota.vercel.app/
